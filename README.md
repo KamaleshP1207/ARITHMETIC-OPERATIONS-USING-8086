@@ -55,17 +55,27 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
+| ----------------------- | -------------------------|
+|  2000                   |  12                      |
+|  2001                   |  34                      |
+|  2002                   |  12                      | 
+|  2003                   |  34                      |
 
-#### Manual Calculations
+|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| 2004                   | 68                        |
+| 2005                   | 24                        |
+| 2006                   | 00                        |
+#### Manual Calculation
+![WhatsApp Image 2025-09-22 at 08 55 17_fc1867b1](https://github.com/user-attachments/assets/e53c55cd-80e9-4658-9f0a-978eea477d6d)
 
-(Add your calculation here)
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-22 at 07 32 24_0e03d0e0](https://github.com/user-attachments/assets/8e7a6f2d-04b2-4750-a610-d75d8fd260b7)
+
 
 ## 2. SUBTRACTION
 
@@ -106,18 +116,29 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   | 57                       |
+|  2001                   | 79                       |
+|  2002                   | 26                       |
+|  2003                   | 35                       |
+
+|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| 2004                   | 31                        |
+| 2005                   | 44                        |
+| 2006                   | 00                        |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 08 56 04_70c2ab61](https://github.com/user-attachments/assets/8de23819-4999-4fd9-8c23-c9f35f28e394)
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-22 at 07 53 10_0ed622a3](https://github.com/user-attachments/assets/c8955f19-f887-465f-8729-be33e89ecb18)
+
 
 ## 3. MULTIPLICATION
 
@@ -155,17 +176,29 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) |  DATA (OUTPUT)           |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   | 12                       |
+|  2001                   | 34                       |
+| 2002                    | 12                       |
+| 2003                    | 34                       |
+
+|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| 2004                   | 90                        |
+| 2005                   | 5A                        |
+| 2006                   | 4B                        |
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 08 58 02_fc281d15](https://github.com/user-attachments/assets/36c533fa-4eba-4219-9678-f1639b126a4e)
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-22 at 08 05 42_9cafe9ce](https://github.com/user-attachments/assets/e4589f9e-2d27-4503-b7a7-cea879bf523f)
+
 
 ## 4. DIVISION
 
@@ -200,16 +233,26 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 2000                    |   70                     |
+| 2001                    |   25                     |
+| 2002                    |   35                     |
+| 2003                    |   12                     |
+
+|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| 2004                   | 00                        |
+| 2005                   | 02                        |
+| 2006                   | 01                        |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 08 58 09_80699d80](https://github.com/user-attachments/assets/4dd149f1-d5ff-4b20-8206-68f1b86b3c56)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-22 at 09 00 42_49502f68](https://github.com/user-attachments/assets/b97c706d-659e-4d91-9f21-37571b10812b)
 
 
 
