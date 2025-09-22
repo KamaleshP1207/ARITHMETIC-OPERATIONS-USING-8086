@@ -62,10 +62,12 @@ END
 |  2002                   |  12                      | 
 |  2003                   |  34                      |
 
-|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
-| 2004                   | 68                        |
-| 2005                   | 24                        |
-| 2006                   | 00                        |
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| ----------------------- | ------------------------- |
+|  2004                   |  68                       |
+|  2005                   |  24                       |
+|  2006                   |  00                       | 
+
 #### Manual Calculation
 ![WhatsApp Image 2025-09-22 at 08 55 17_fc1867b1](https://github.com/user-attachments/assets/e53c55cd-80e9-4658-9f0a-978eea477d6d)
 
@@ -123,10 +125,12 @@ END
 |  2002                   | 26                       |
 |  2003                   | 35                       |
 
-|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
-| 2004                   | 31                        |
-| 2005                   | 44                        |
-| 2006                   | 00                        |
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| ----------------------- | ------------------------- |
+|  2004                   |  31                       | 
+|  2005                   |  44                       |
+|  2006                   |  00                       | 
+
 
 #### Manual Calculations
 
@@ -183,11 +187,11 @@ END
 | 2002                    | 12                       |
 | 2003                    | 34                       |
 
-|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
-| 2004                   | 90                        |
-| 2005                   | 5A                        |
-| 2006                   | 4B                        |
-
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| ----------------------- | ------------------------- |
+|  2004                   |  90                       |
+|  2005                   |  5A                       |
+|  2006                   |  4B                       | 
 
 #### Manual Calculations
 
@@ -240,10 +244,12 @@ END
 | 2002                    |   35                     |
 | 2003                    |   12                     |
 
-|MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
-| 2004                   | 00                        |
-| 2005                   | 02                        |
-| 2006                   | 01                        |
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)             |
+| ----------------------- | ------------------------- |
+|  2004                   |  00                       |
+|  2005                   |  02                       |
+|  2006                   |  01                       | 
+
 
 #### Manual Calculations
 
